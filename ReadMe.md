@@ -1,20 +1,18 @@
-# Human Code - Creazione di Passggi per la creazione della Pasta.
 
--1° Parte:
-1.Creazione della lista:
+# Human Code - Creazione della lista della spesa.
 
-2. Aggiungere nelle lista i possiili ingredieti:
- - Pasta
- - Passata di Pomodori
- - Cipolle
- - Olio
- - Aglio
- - Sale
+1° Parte - Creazione della lista:
 
- 3. Condizioni:
-  - Fare la spesa al supermercato.
-  - Iniziare a Preparare la Pasta.
+- Annotare i seguenti prodotti mancati
+- Verifica di includere le Crocchete di Ricky
+- Controllare la presenza di un coupon sconto valido fino a fine mese.
 
- 4. Azioni:
-  - Spuntare la Lista sui relativi Prodotti Acquistati.
-  - Controllare i seguenti prodotti in frigo.
+2° Parte - Fare la spesa:
+ - Seguire la lista per non dimenticare nulla.
+ - Evitare di farsi prendere la mano con acquisti extra
+ - Verificare di avere abbastanza contanti nel portafoglio.
+ - Usare il coupon prima della scadenza.
+
+ 3° Confermare gli acquisti:
+ - Spuntare ogni prodotti acquisti della lista.
+ - Controllare che i prodotti siano presenti prima di lasciare il supermercato.
