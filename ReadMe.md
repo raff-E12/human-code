@@ -1,6 +1,11 @@
 
 # Human Code - Creazione della lista della spesa.
 
+# Cosa mi serve:
+- un Coupon del supermecato.
+- Lista della Spesa.
+- Portafogli con soldi.
+
 1° Parte - Creazione della lista:
 
 - Annotare i seguenti prodotti mancati.
@@ -19,6 +24,11 @@
 
 # Human Code - Scansionare un documento su più fogli fronte-retro.
 
+# Cosa mi Serve:
+- Lo Scanner.
+- I fogli da Scansionare.
+- Un computer per modificare e unire i file.
+
  1° Parte - Prepazione:
  - Recuperare tutti i fogli da scansionare.
  - Ordinare i fogli nel giusto ordine per la scansione.
@@ -35,3 +45,6 @@
  - Salvare il file in una cartella facilamente accessibile.
  - Eliminare la versione cartacea se non necessaria per liberarsi di fogli inutilizzati.
 
+# Concetti importanti:
+- Verifica che ogni pagina sia leggibile prima di archiaviare definitivamente il file.
+- Verificare il numero di pagine se è elevato in questione.
